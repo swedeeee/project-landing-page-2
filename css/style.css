@@ -72,6 +72,10 @@ a.active {
   padding: 0.5rem 2rem;
 }
 
+.logo img {
+  max-width: 200px;
+}
+
 .main-menu {
   display: flex;
   gap: 10px;
