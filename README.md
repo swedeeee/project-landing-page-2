@@ -1,7 +1,7 @@
 # Project: Landing Page for the Odin Project
 
 ## About
-This is a solution to the Landing Page project from The Odin Projecct. The objective of this project was to build a professional looking landing page from scratch using HTML and CSS from a design provided.
+This is a solution to the Landing Page project from The Odin Project. The objective of this project was to build a professional looking landing page from scratch using HTML and CSS from a design provided.
 
 
 
